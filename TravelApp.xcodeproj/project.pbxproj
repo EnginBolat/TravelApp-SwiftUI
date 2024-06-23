@@ -8,18 +8,38 @@
 
 /* Begin PBXBuildFile section */
 		D242F6A22C2768D8004C02A7 /* TravelAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6A12C2768D8004C02A7 /* TravelAppApp.swift */; };
-		D242F6A42C2768D8004C02A7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6A32C2768D8004C02A7 /* ContentView.swift */; };
+		D242F6A42C2768D8004C02A7 /* Onboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6A32C2768D8004C02A7 /* Onboard.swift */; };
 		D242F6A62C2768D9004C02A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D242F6A52C2768D9004C02A7 /* Assets.xcassets */; };
 		D242F6AA2C2768D9004C02A7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D242F6A92C2768D9004C02A7 /* Preview Assets.xcassets */; };
+		D242F6B32C276CB2004C02A7 /* PrimaryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6B22C276CB2004C02A7 /* PrimaryButton.swift */; };
+		D242F6B72C276DFC004C02A7 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6B62C276DFC004C02A7 /* Home.swift */; };
+		D242F6BA2C277763004C02A7 /* TravelModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6B92C277763004C02A7 /* TravelModel.swift */; };
+		D242F6BC2C277CA6004C02A7 /* TabPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6BB2C277CA6004C02A7 /* TabPage.swift */; };
+		D242F6BF2C27F1AA004C02A7 /* RectangleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6BE2C27F1AA004C02A7 /* RectangleCard.swift */; };
+		D242F6C22C27F1D6004C02A7 /* SquareCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6C12C27F1D6004C02A7 /* SquareCard.swift */; };
+		D242F6C52C27F20D004C02A7 /* Chip.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6C42C27F20D004C02A7 /* Chip.swift */; };
+		D242F6C92C27F23D004C02A7 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6C82C27F23D004C02A7 /* SearchBar.swift */; };
+		D242F6CB2C27F495004C02A7 /* Details.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6CA2C27F495004C02A7 /* Details.swift */; };
+		D242F6CE2C282780004C02A7 /* FacilitiesBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = D242F6CD2C282780004C02A7 /* FacilitiesBox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D242F69E2C2768D8004C02A7 /* TravelApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D242F6A12C2768D8004C02A7 /* TravelAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelAppApp.swift; sourceTree = "<group>"; };
-		D242F6A32C2768D8004C02A7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D242F6A32C2768D8004C02A7 /* Onboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboard.swift; sourceTree = "<group>"; };
 		D242F6A52C2768D9004C02A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D242F6A72C2768D9004C02A7 /* TravelApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TravelApp.entitlements; sourceTree = "<group>"; };
 		D242F6A92C2768D9004C02A7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D242F6B22C276CB2004C02A7 /* PrimaryButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimaryButton.swift; sourceTree = "<group>"; };
+		D242F6B62C276DFC004C02A7 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		D242F6B92C277763004C02A7 /* TravelModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelModel.swift; sourceTree = "<group>"; };
+		D242F6BB2C277CA6004C02A7 /* TabPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabPage.swift; sourceTree = "<group>"; };
+		D242F6BE2C27F1AA004C02A7 /* RectangleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleCard.swift; sourceTree = "<group>"; };
+		D242F6C12C27F1D6004C02A7 /* SquareCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareCard.swift; sourceTree = "<group>"; };
+		D242F6C42C27F20D004C02A7 /* Chip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chip.swift; sourceTree = "<group>"; };
+		D242F6C82C27F23D004C02A7 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		D242F6CA2C27F495004C02A7 /* Details.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Details.swift; sourceTree = "<group>"; };
+		D242F6CD2C282780004C02A7 /* FacilitiesBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacilitiesBox.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +72,10 @@
 		D242F6A02C2768D8004C02A7 /* TravelApp */ = {
 			isa = PBXGroup;
 			children = (
+				D242F6B82C27774E004C02A7 /* Model */,
+				D242F6B42C276DEE004C02A7 /* Page */,
+				D242F6B02C276C9F004C02A7 /* Components */,
 				D242F6A12C2768D8004C02A7 /* TravelAppApp.swift */,
-				D242F6A32C2768D8004C02A7 /* ContentView.swift */,
 				D242F6A52C2768D9004C02A7 /* Assets.xcassets */,
 				D242F6A72C2768D9004C02A7 /* TravelApp.entitlements */,
 				D242F6A82C2768D9004C02A7 /* Preview Content */,
@@ -67,6 +89,78 @@
 				D242F6A92C2768D9004C02A7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D242F6B02C276C9F004C02A7 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				D242F6CC2C282775004C02A7 /* Container */,
+				D242F6C72C27F234004C02A7 /* Search */,
+				D242F6C32C27F1FF004C02A7 /* Chip */,
+				D242F6BD2C27F19A004C02A7 /* Card */,
+				D242F6B12C276CA3004C02A7 /* Button */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		D242F6B12C276CA3004C02A7 /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				D242F6B22C276CB2004C02A7 /* PrimaryButton.swift */,
+			);
+			path = Button;
+			sourceTree = "<group>";
+		};
+		D242F6B42C276DEE004C02A7 /* Page */ = {
+			isa = PBXGroup;
+			children = (
+				D242F6A32C2768D8004C02A7 /* Onboard.swift */,
+				D242F6B62C276DFC004C02A7 /* Home.swift */,
+				D242F6BB2C277CA6004C02A7 /* TabPage.swift */,
+				D242F6CA2C27F495004C02A7 /* Details.swift */,
+			);
+			path = Page;
+			sourceTree = "<group>";
+		};
+		D242F6B82C27774E004C02A7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D242F6B92C277763004C02A7 /* TravelModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D242F6BD2C27F19A004C02A7 /* Card */ = {
+			isa = PBXGroup;
+			children = (
+				D242F6BE2C27F1AA004C02A7 /* RectangleCard.swift */,
+				D242F6C12C27F1D6004C02A7 /* SquareCard.swift */,
+			);
+			path = Card;
+			sourceTree = "<group>";
+		};
+		D242F6C32C27F1FF004C02A7 /* Chip */ = {
+			isa = PBXGroup;
+			children = (
+				D242F6C42C27F20D004C02A7 /* Chip.swift */,
+			);
+			path = Chip;
+			sourceTree = "<group>";
+		};
+		D242F6C72C27F234004C02A7 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				D242F6C82C27F23D004C02A7 /* SearchBar.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		D242F6CC2C282775004C02A7 /* Container */ = {
+			isa = PBXGroup;
+			children = (
+				D242F6CD2C282780004C02A7 /* FacilitiesBox.swift */,
+			);
+			path = Container;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,7 +233,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D242F6A42C2768D8004C02A7 /* ContentView.swift in Sources */,
+				D242F6B32C276CB2004C02A7 /* PrimaryButton.swift in Sources */,
+				D242F6A42C2768D8004C02A7 /* Onboard.swift in Sources */,
+				D242F6BA2C277763004C02A7 /* TravelModel.swift in Sources */,
+				D242F6B72C276DFC004C02A7 /* Home.swift in Sources */,
+				D242F6C52C27F20D004C02A7 /* Chip.swift in Sources */,
+				D242F6BF2C27F1AA004C02A7 /* RectangleCard.swift in Sources */,
+				D242F6CB2C27F495004C02A7 /* Details.swift in Sources */,
+				D242F6BC2C277CA6004C02A7 /* TabPage.swift in Sources */,
+				D242F6CE2C282780004C02A7 /* FacilitiesBox.swift in Sources */,
+				D242F6C92C27F23D004C02A7 /* SearchBar.swift in Sources */,
+				D242F6C22C27F1D6004C02A7 /* SquareCard.swift in Sources */,
 				D242F6A22C2768D8004C02A7 /* TravelAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
